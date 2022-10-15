@@ -4,4 +4,8 @@ git commit -m "$*"
 
 git push
 
-google-chrome 'https://www.pythonanywhere.com/user/normanrahmel/consoles/25849805/'
+open 'https://www.pythonanywhere.com/user/normanrahmel/consoles/25849805/'
+
+cd todolist_api
+
+git pull
